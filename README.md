@@ -10,6 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Acknowledgments](#Acknowledgments)
 
 ## Overview
 
@@ -35,3 +36,6 @@ The mobile version screenshot:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+## Acknowledgments
+
+freeCodeCamp and zach gollwitzer
